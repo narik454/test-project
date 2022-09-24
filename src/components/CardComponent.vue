@@ -11,8 +11,6 @@
 </template>
 
 <script>
-import { defineEmits } from 'vue'
-
 export default {
   name: "CardComponent",
   props: ['id', 'draggable'],
